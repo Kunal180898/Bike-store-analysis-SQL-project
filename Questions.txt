@@ -1,0 +1,53 @@
+Beginner Level (Business Context with Basic Joins):
+
+Customer Location Information: Provide a list of all customers along with their respective city and state.
+
+Store Distribution by State: How many stores are there in each state?
+
+Product and Brand Details: List all products with their name, price, and associated brand.
+
+Customer Purchase History: Show all orders made by a specific customer, including order status and dates.
+
+Order Item Breakdown: For a given order, provide a breakdown of all the items, including quantity and product price.
+
+Staff Assignments: Which staff members are assigned to work at a specific store?
+
+Product Category Overview: Display all products within a specific category.
+
+Basic Product Inventory: How many units of each product are in stock at each store? (Requires a join between stocks and products tables)
+
+Order and Store Details: Show a list of all orders, including the store name where each order was placed. (Requires a join between orders and stores tables)
+
+
+Intermediate Level (Business Context):
+
+Product Sales Volume: What is the total quantity sold for each product?
+
+Store Sales Performance: Calculate the total sales value (based on quantity and price) for each store.
+
+Late Shipments: Identify orders that were shipped after their required date.
+
+Top-Selling Products: Which are the top 5 best-selling products based on quantity sold?
+
+Store Inventory Insights: How many total products are stocked in each store?
+
+Loyal Customers: Which customers have placed more than one order?
+
+Inactive Customers: Provide a list of customers who have not placed any orders yet.
+
+
+Advanced Level (Business Context):
+
+Top Revenue-Generating Stores: Which are the top 3 stores generating the highest sales revenue?
+
+High-Performing Staff: Identify the staff members who have managed the most number of orders.
+
+Category Discount Analysis: Calculate the average discount offered for products within each category.
+
+Top-Spending Customers: Who are the top 5 customers based on their total spend (calculated as price * quantity)?
+
+Low Inventory Stores: Which store has the lowest overall stock of products?
+
+Unsold Products: List the products that have never been ordered.
+
+On-Time Shipments: What percentage of orders were shipped on or before the required date?
