@@ -1,4 +1,4 @@
-Beginner Level (Business Context with Basic Joins):
+Beginner Level :
 
 Customer Location Information: Provide a list of all customers along with their respective city and state.
 
@@ -19,7 +19,7 @@ Basic Product Inventory: How many units of each product are in stock at each sto
 Order and Store Details: Show a list of all orders, including the store name where each order was placed. (Requires a join between orders and stores tables)
 
 
-Intermediate Level (Business Context):
+Intermediate Level :
 
 Product Sales Volume: What is the total quantity sold for each product?
 
@@ -36,7 +36,7 @@ Loyal Customers: Which customers have placed more than one order?
 Inactive Customers: Provide a list of customers who have not placed any orders yet.
 
 
-Advanced Level (Business Context):
+Advanced Level :
 
 Top Revenue-Generating Stores: Which are the top 3 stores generating the highest sales revenue?
 
